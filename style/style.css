@@ -164,7 +164,19 @@
     font-style: italic;
     color:var(--main-white);
   }
-  
+  /* my story */
+  #about{
+    background-color: #352F44;
+    color: #f0f0f0;
+    text-align: center;
+    padding: 5rem;
+  }
+  #my-story  {
+      text-align: center;
+  }
+  h2{
+    text-decoration: underline;
+  }
   /* Projects section */
   
   .projects-section {
